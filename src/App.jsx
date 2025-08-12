@@ -30,7 +30,8 @@ function App() {
       </p> 
       <p>I want to learn devops</p> 
       <p>I started learing devops</p> 
-      <p>my name is chiranjeevi mech.</p>
+      <p>my name is chiranjeevi mech.</p> 
+      <p> Tiger is national animal.</p>
     </>
   )
 }
