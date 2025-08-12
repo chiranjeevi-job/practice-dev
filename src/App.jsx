@@ -29,7 +29,8 @@ function App() {
         Click on the Vite and React logos to learn more
       </p> 
       <p>I want to learn devops</p> 
-      <p>I started learing devops and cloud</p>
+      <p>I started learing devops and cloud</p> 
+      <p>my name is chiranjeevi</p>
     </>
   )
 }
